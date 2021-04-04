@@ -192,18 +192,20 @@ Files generated:
 
 ## Vim
 
-Copy or symlink `Vim/CodeWitchVim.vim` to `~/.vim/colors/`.
+(Note vim themes are in a [separate repo](https://github.com/sabrinathecodewitch/code-witch-vim))
+
+Install using your plugin manager or usual method for setup.
 
 Then set the colorscheme in `.vimrc`:
 
     " The background option must be set before running this command.
-    colo CodeWitchVim
+    colorscheme code-witch
 
-## Vim lightline
+### Vim lightline support
+
+Install the vim theme using your plugin manager or usual for setup.
 
 Make sure that the `background` option is set in `.vimrc`.
-
-Copy or symlink `Vim lightline/CodeWitchVimLightline.vim` to `~/.vim/autoload/lightline/colorscheme/`.
 
 Then set the colorscheme in `.vimrc`:
 

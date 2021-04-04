@@ -1,0 +1,3 @@
+[submodule "code-witch-vim"]
+	path = code-witch-vim
+	url = git@github.com:sabrinathecodewitch/code-witch-vim.git
