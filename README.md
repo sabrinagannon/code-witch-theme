@@ -1,15 +1,15 @@
-# `themer`
+# Code Witch Theme
+
+Inspired by this illustration:
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Wooo! My latest commission for my pal <a href="https://twitter.com/thecodewitch?ref_src=twsrc%5Etfw">@thecodewitch</a> to use for their upcoming talk on Ruby Types is done! 🥰 I’m so stoked I got to work on this with them! <br><br>If you’re looking for an illustration I’m now open for a project! I’d love to work with y’all on your ideas! <a href="https://t.co/4jDelCqp3Q">pic.twitter.com/4jDelCqp3Q</a></p>&mdash; Cassie Slack (@CSlackDesign) <a href="https://twitter.com/CSlackDesign/status/1378033671488335882?ref_src=twsrc%5Etfw">April 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 Your theme's unique URL:
 
 https://themer.dev/?colors.dark.shade0=%23280023&colors.dark.shade7=%23E7DED5&colors.dark.accent0=%23CD4128&colors.dark.accent1=%23F58903&colors.dark.accent3=%2301845C&colors.dark.accent2=%23C59413&colors.dark.accent4=%230189A3&colors.dark.accent5=%230168AD&colors.dark.accent7=%23D101B7&colors.dark.accent6=%23AF7F95&colors.light.shade7=%23280023&colors.light.shade0=%23E7DED5&colors.light.accent0=%23CD4128&colors.light.accent1=%23F58903&colors.light.accent2=%23C59413&colors.light.accent3=%2301845C&colors.light.accent4=%230189A3&colors.light.accent5=%230168AD&colors.light.accent6=%23AF7F95&colors.light.accent7=%23D101B7&activeColorSet=dark
 
-If you find `themer` useful, here are some ways to support the project:
 
-* Star [`themer` on GitHub](https://github.com/mjswensen/themer)
-* Follow [@themerdev](https://twitter.com/themerdev) on Twitter
-* [Send a tip through the Brave Browser](https://brave.com/the537), either on [the repository page](https://github.com/mjswensen/themer) or [the Web UI](https://themer.dev)
-* Pay what you want when downloading your theme from [themer.dev](https://themer.dev)
 
 # Installation instructions
 
