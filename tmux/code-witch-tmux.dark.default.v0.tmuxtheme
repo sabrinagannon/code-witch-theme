@@ -13,32 +13,32 @@
 set -g status-interval 1
 
 # Basic status bar colors
-set -g status-fg "#7a5f6f"
-set -g status-bg "#43203c"
+set -g status-fg "#715f68"
+set -g status-bg "#362032"
 
 # Left side of status bar
-set -g status-left-bg "#43203c"
-set -g status-left-fg "#b09fa2"
+set -g status-left-bg "#362032"
+set -g status-left-fg "#ac9f9f"
 set -g status-left-length 40
-set -g status-left "#[fg=#280023,bg=#cd4128,bold] #S #[fg=#cd4128,bg=#957f89,nobold]#[fg=#43203c,bg=#957f89] #(whoami) #[fg=#957f89,bg=#5f3f56]#[fg=#957f89,bg=#5f3f56] #I:#P #[fg=#5f3f56,bg=#43203c,nobold]"
+set -g status-left "#[fg=#190017,bg=#cd4128,bold] #S #[fg=#cd4128,bg=#8f7f84,nobold]#[fg=#362032,bg=#8f7f84] #(whoami) #[fg=#8f7f84,bg=#543f4d]#[fg=#8f7f84,bg=#543f4d] #I:#P #[fg=#543f4d,bg=#362032,nobold]"
 
 # Right side of status bar
-set -g status-right-bg "#43203c"
-set -g status-right-fg "#b09fa2"
+set -g status-right-bg "#362032"
+set -g status-right-fg "#ac9f9f"
 set -g status-right-length 150
-set -g status-right "#[fg=#5f3f56,bg=#43203c]#[fg=#957f89,bg=#5f3f56] %H:%M:%S #[fg=#957f89,bg=#5f3f56]#[fg=#43203c,bg=#957f89] %d-%b-%y #[fg=#ccbebc,bg=#957f89]#[fg=#280023,bg=#ccbebc,bold] #H "
+set -g status-right "#[fg=#543f4d,bg=#362032]#[fg=#8f7f84,bg=#543f4d] %H:%M:%S #[fg=#8f7f84,bg=#543f4d]#[fg=#362032,bg=#8f7f84] %d-%b-%y #[fg=#cabeba,bg=#8f7f84]#[fg=#190017,bg=#cabeba,bold] #H "
 
 # Window status
-set -g window-status-format "#[fg=#e7ded5]#[bg=#43203c]  #I:#W#F  "
-set -g window-status-current-format "#[fg=#43203c,bg=black]#[fg=#f58903,nobold] #I:#W#F #[fg=#43203c,bg=black,nobold]"
+set -g window-status-format "#[fg=#e7ded5]#[bg=#362032]  #I:#W#F  "
+set -g window-status-current-format "#[fg=#362032,bg=black]#[fg=#f58903,nobold] #I:#W#F #[fg=#362032,bg=black,nobold]"
 
 # Current window status
 set -g window-status-current-bg "#cd4128"
-set -g window-status-current-fg "#5f3f56"
+set -g window-status-current-fg "#543f4d"
 
 # Window with activity status
-set -g window-status-activity-bg "#ccbebc" # fg and bg are flipped here due to
-set -g window-status-activity-fg "#43203c" # a bug in tmux
+set -g window-status-activity-bg "#cabeba" # fg and bg are flipped here due to
+set -g window-status-activity-fg "#362032" # a bug in tmux
 
 # Window separator
 set -g window-status-separator ""
@@ -48,15 +48,15 @@ set -g status-justify centre
 
 # Pane border
 set -g pane-border-bg default
-set -g pane-border-fg "#7a5f6f"
+set -g pane-border-fg "#715f68"
 
 # Active pane border
 set -g pane-active-border-bg default
 set -g pane-active-border-fg "#cd4128"
 
 # Pane number indicator
-set -g display-panes-colour "#43203c"
-set -g display-panes-active-colour "#ccbebc"
+set -g display-panes-colour "#362032"
+set -g display-panes-active-colour "#cabeba"
 
 # Clock mode
 set -g clock-mode-colour "#cd4128"
@@ -67,7 +67,7 @@ set -g message-bg "#cd4128"
 set -g message-fg black
 
 # Command message
-set -g message-command-bg "#43203c"
+set -g message-command-bg "#362032"
 set -g message-command-fg black
 
 # Mode

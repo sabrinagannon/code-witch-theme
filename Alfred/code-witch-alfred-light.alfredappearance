@@ -4,22 +4,22 @@
       "textSpacing": 6,
       "subtext": {
         "size": 12,
-        "colorSelected": "#ccbebcFF",
+        "colorSelected": "#cabebaFF",
         "font": "System Light",
-        "color": "#7a5f6fFF"
+        "color": "#715f68FF"
       },
       "shortcut": {
         "size": 16,
-        "colorSelected": "#ccbebcFF",
+        "colorSelected": "#cabebaFF",
         "font": "System",
-        "color": "#43203cFF"
+        "color": "#362032FF"
       },
       "backgroundSelected": "#0189a3FF",
       "text": {
         "size": 18,
         "colorSelected": "#e7ded5FF",
         "font": "System Light",
-        "color": "#280023FF"
+        "color": "#190017FF"
       },
       "iconPaddingHorizontal": 6,
       "paddingVertical": 6,
@@ -27,13 +27,13 @@
     },
     "search": {
       "paddingVertical": 8,
-      "background": "#b09fa27F",
+      "background": "#ac9f9f7F",
       "spacing": 10,
       "text": {
         "size": 22,
         "colorSelected": "#0168adFF",
         "font": "System",
-        "color": "#280023FF"
+        "color": "#190017FF"
       },
       "backgroundSelected": "#d101b7FF"
     },

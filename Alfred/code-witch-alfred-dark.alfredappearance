@@ -4,20 +4,20 @@
       "textSpacing": 6,
       "subtext": {
         "size": 12,
-        "colorSelected": "#43203cFF",
+        "colorSelected": "#362032FF",
         "font": "System Light",
-        "color": "#957f89FF"
+        "color": "#8f7f84FF"
       },
       "shortcut": {
         "size": 16,
-        "colorSelected": "#43203cFF",
+        "colorSelected": "#362032FF",
         "font": "System",
-        "color": "#ccbebcFF"
+        "color": "#cabebaFF"
       },
       "backgroundSelected": "#0189a3FF",
       "text": {
         "size": 18,
-        "colorSelected": "#280023FF",
+        "colorSelected": "#190017FF",
         "font": "System Light",
         "color": "#e7ded5FF"
       },
@@ -27,7 +27,7 @@
     },
     "search": {
       "paddingVertical": 8,
-      "background": "#5f3f567F",
+      "background": "#543f4d7F",
       "spacing": 10,
       "text": {
         "size": 22,
@@ -38,18 +38,18 @@
       "backgroundSelected": "#d101b7FF"
     },
     "window": {
-      "color": "#280023CC",
+      "color": "#190017CC",
       "paddingHorizontal": 10,
       "width": 560,
       "borderPadding": 0,
-      "borderColor": "#28002300",
+      "borderColor": "#19001700",
       "blur": 15,
       "roundness": 2,
       "paddingVertical": 10
     },
     "credit": "Themer",
     "separator": {
-      "color": "#28002300",
+      "color": "#19001700",
       "thickness": 0
     },
     "scrollbar": {

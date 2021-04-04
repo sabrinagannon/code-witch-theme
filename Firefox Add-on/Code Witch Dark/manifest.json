@@ -10,14 +10,14 @@
         213
       ],
       "frame": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "frame_inactive": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "icons_attention": [
         231,
@@ -30,9 +30,9 @@
         213
       ],
       "ntp_background": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "ntp_text": [
         231,
@@ -40,24 +40,24 @@
         213
       ],
       "popup_highlight_text": [
-        95,
+        84,
         63,
-        86
+        77
       ],
       "popup_highlight": [
-        204,
+        202,
         190,
-        188
+        186
       ],
       "toolbar_field_highlight_text": [
-        95,
+        84,
         63,
-        86
+        77
       ],
       "popup_border": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "popup_text": [
         231,
@@ -65,34 +65,34 @@
         213
       ],
       "popup": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "sidebar_border": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "sidebar_highlight_text": [
-        204,
+        202,
         190,
-        188
+        186
       ],
       "sidebar_highlight": [
-        95,
+        84,
         63,
-        86
+        77
       ],
       "sidebar_text": [
-        204,
+        202,
         190,
-        188
+        186
       ],
       "sidebar": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "tab_background_text": [
         231,
@@ -110,19 +110,19 @@
         213
       ],
       "toolbar_bottom_separator": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "toolbar_field_border": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "toolbar_field_separator": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "toolbar_field_text_focus": [
         231,
@@ -135,19 +135,19 @@
         213
       ],
       "toolbar_field": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "toolbar_field_border_focus": [
-        95,
+        84,
         63,
-        86
+        77
       ],
       "toolbar": [
-        67,
+        54,
         32,
-        60
+        50
       ]
     }
   }

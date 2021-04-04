@@ -5,14 +5,14 @@
   "theme": {
     "colors": {
       "bookmark_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "frame": [
-        204,
+        202,
         190,
-        188
+        186
       ],
       "ntp_background": [
         231,
@@ -20,34 +20,34 @@
         213
       ],
       "ntp_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_background_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_background_text_inactive": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_background_text_incognito": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_background_text_incognito_inactive": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "toolbar": [
         231,
@@ -55,14 +55,14 @@
         213
       ],
       "omnibox_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "omnibox_background": [
-        204,
+        202,
         190,
-        188
+        186
       ]
     },
     "tints": {

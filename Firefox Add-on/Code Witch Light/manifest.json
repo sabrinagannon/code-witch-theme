@@ -5,14 +5,14 @@
   "theme": {
     "colors": {
       "bookmark_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "frame": [
-        204,
+        202,
         190,
-        188
+        186
       ],
       "frame_inactive": [
         231,
@@ -20,14 +20,14 @@
         213
       ],
       "icons_attention": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "icons": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "ntp_background": [
         231,
@@ -35,24 +35,24 @@
         213
       ],
       "ntp_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "popup_highlight_text": [
-        176,
+        172,
         159,
-        162
+        159
       ],
       "popup_highlight": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "toolbar_field_highlight_text": [
-        176,
+        172,
         159,
-        162
+        159
       ],
       "popup_border": [
         231,
@@ -60,9 +60,9 @@
         213
       ],
       "popup_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "popup": [
         231,
@@ -75,19 +75,19 @@
         213
       ],
       "sidebar_highlight_text": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "sidebar_highlight": [
-        176,
+        172,
         159,
-        162
+        159
       ],
       "sidebar_text": [
-        67,
+        54,
         32,
-        60
+        50
       ],
       "sidebar": [
         231,
@@ -95,19 +95,19 @@
         213
       ],
       "tab_background_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_loading": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "tab_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "toolbar_bottom_separator": [
         231,
@@ -125,14 +125,14 @@
         213
       ],
       "toolbar_field_text_focus": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "toolbar_field_text": [
-        40,
+        25,
         0,
-        35
+        23
       ],
       "toolbar_field": [
         231,
@@ -140,9 +140,9 @@
         213
       ],
       "toolbar_field_border_focus": [
-        176,
+        172,
         159,
-        162
+        159
       ],
       "toolbar": [
         231,

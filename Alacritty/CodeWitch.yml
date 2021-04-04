@@ -4,29 +4,29 @@
 schemes:
   themer-dark: &dark
     primary:
-      background: '#280023'
-      foreground: '#ccbebc'
+      background: '#190017'
+      foreground: '#cabeba'
 
     cursor:
-      text: '#280023'
+      text: '#190017'
       cursor: '#af7f95'
 
     selection:
-      text: '#280023'
+      text: '#190017'
       background: '#0168ad'
 
     normal:
-      black: '#5f3f56'
+      black: '#543f4d'
       red: '#cd4128'
       green: '#01845c'
       yellow: '#c59413'
       blue: '#0168ad'
       magenta: '#d101b7'
       cyan: '#0189a3'
-      white: '#ccbebc'
+      white: '#cabeba'
 
     bright:
-      black: '#7a5f6f'
+      black: '#715f68'
       red: '#D2604B'
       green: '#2F9674'
       yellow: '#CCA33A'
@@ -36,20 +36,20 @@ schemes:
       white: '#e7ded5'
 
     dim:
-      black: '#43203c'
-      red: '#AC3427'
-      green: '#096A51'
-      yellow: '#A67616'
-      blue: '#095391'
-      magenta: '#AF0199'
-      cyan: '#096E89'
-      white: '#b09fa2'
+      black: '#362032'
+      red: '#A93425'
+      green: '#066A4E'
+      yellow: '#A37614'
+      blue: '#06538F'
+      magenta: '#AC0197'
+      cyan: '#066E87'
+      white: '#ac9f9f'
   
 
   themer-light: &light
     primary:
       background: '#e7ded5'
-      foreground: '#43203c'
+      foreground: '#362032'
 
     cursor:
       text: '#e7ded5'
@@ -60,32 +60,32 @@ schemes:
       background: '#0168ad'
 
     normal:
-      black: '#43203c'
+      black: '#362032'
       red: '#cd4128'
       green: '#01845c'
       yellow: '#c59413'
       blue: '#0168ad'
       magenta: '#d101b7'
       cyan: '#0189a3'
-      white: '#b09fa2'
+      white: '#ac9f9f'
 
     bright:
-      black: '#5f3f56'
+      black: '#543f4d'
       red: '#D2604B'
       green: '#2F9674'
       yellow: '#CCA33A'
       blue: '#2F80B5'
       magenta: '#D52DBD'
       cyan: '#2F9AAD'
-      white: '#ccbebc'
+      white: '#cabeba'
 
     dim:
-      black: '#280023'
-      red: '#AC3427'
-      green: '#096A51'
-      yellow: '#A67616'
-      blue: '#095391'
-      magenta: '#AF0199'
-      cyan: '#096E89'
-      white: '#957f89'
+      black: '#190017'
+      red: '#A93425'
+      green: '#066A4E'
+      yellow: '#A37614'
+      blue: '#06538F'
+      magenta: '#AC0197'
+      cyan: '#066E87'
+      white: '#8f7f84'
   
