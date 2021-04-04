@@ -15,7 +15,7 @@ https://themer.dev/?colors.dark.shade0=%23280023&colors.dark.shade7=%23E7DED5&co
 
 ## Alacritty
 
-1. Paste the contents of `Alacritty/Themer.yml` into your Alacritty config file.
+1. Paste the contents of `Alacritty/CodeWitch.yml` into your Alacritty config file.
 2. Select the desired theme by setting the `colors` config key to reference the scheme's anchor (i.e., `colors: *light` or `colors: *dark`).
 
 ## Alfred
@@ -54,7 +54,7 @@ Files generated:
 
 1. Launch Chrome and go to `chrome://extensions`.
 2. Check the "Developer mode" checkbox at the top.
-3. Click the "Load unpacked extension..." button and choose the desired theme directory (`Chrome/Themer Dark` or `Chrome/Themer Light`).
+3. Click the "Load unpacked extension..." button and choose the desired theme directory (`Chrome/Code Witch Dark` or `Chrome/Code Witch Light`).
 
 (To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.)
 
@@ -112,7 +112,7 @@ To use the generated extension package, the code will need to be packaged up and
 
 To package the code in preparation for submission, the `web-ext` tool can be used:
 
-    npx web-ext build --source-dir 'Firefox Add-on/Themer Dark' # or 'Firefox Add-on/Themer Light'
+    npx web-ext build --source-dir 'Firefox Add-on/Code Witch Dark' # or 'Firefox Add-on/Code Witch Light'
 
 Then the package can be submitted to Mozilla for review in the [Add-on Developer Hub](https://addons.mozilla.org/en-US/developers/addon/submit/distribution).
 
@@ -192,22 +192,22 @@ Files generated:
 
 ## Vim
 
-Copy or symlink `Vim/ThemerVim.vim` to `~/.vim/colors/`.
+Copy or symlink `Vim/CodeWitchVim.vim` to `~/.vim/colors/`.
 
 Then set the colorscheme in `.vimrc`:
 
     " The background option must be set before running this command.
-    colo ThemerVim
+    colo CodeWitchVim
 
 ## Vim lightline
 
 Make sure that the `background` option is set in `.vimrc`.
 
-Copy or symlink `Vim lightline/ThemerVimLightline.vim` to `~/.vim/autoload/lightline/colorscheme/`.
+Copy or symlink `Vim lightline/CodeWitchVimLightline.vim` to `~/.vim/autoload/lightline/colorscheme/`.
 
 Then set the colorscheme in `.vimrc`:
 
-    let g:lightline = { 'colorscheme': 'ThemerVimLightline' }
+    let g:lightline = { 'colorscheme': 'CodeWitchVimLightline' }
 
 ## Visual Studio
 
@@ -223,17 +223,17 @@ Copy (or symlink) the generated package directory into the VS Code extensions di
 
     cp -R 'VS Code/theme-themer-vscode' ~/.vscode/extensions/
 
-Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Themer Dark" / "Themer Light" will be available in the list of themes.
+Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Code Witch Dark" / "Code Witch Light" will be available in the list of themes.
 
 ## Windows Terminal
 
 1. Open the Windows Terminal settings (`Ctrl`-`,`)
 2. Add the contents of 'Windows Terminal/themer-dark.json' and 'Windows Terminal/themer-light.json' to the `schemes` array in `profile.json`
-3. Set the `colorScheme` property to the desired scheme name ("Themer Dark" or "Themer Light") in the profiles section of `profile.json`, e.g.:
+3. Set the `colorScheme` property to the desired scheme name ("Code Witch Dark" or "Code Witch Light") in the profiles section of `profile.json`, e.g.:
 
     "profiles": {
       "defaults": {
-        "colorScheme": "Themer Dark"
+        "colorScheme": "Code Witch Dark"
       }
     }
 
@@ -242,7 +242,7 @@ Then reload or restart VS Code. The generated theme package should be in the lis
 Copy (or symlink) the generated theme files to Xcode's themes directory:
 
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-    cp 'Xcode/Themer Dark.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-    cp 'Xcode/Themer Light.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    cp 'Xcode/Code Witch Dark.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+    cp 'Xcode/Code Witch Light.dvtcolortheme' ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 
 Then restart Xcode. The themes will be available in Preferences > Fonts and Colors.
