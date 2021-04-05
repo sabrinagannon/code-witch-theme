@@ -14,7 +14,7 @@
         "font": "System",
         "color": "#362032FF"
       },
-      "backgroundSelected": "#0189a3FF",
+      "backgroundSelected": "#2b6b7fFF",
       "text": {
         "size": 18,
         "colorSelected": "#e7ded5FF",
@@ -31,11 +31,11 @@
       "spacing": 10,
       "text": {
         "size": 22,
-        "colorSelected": "#0168adFF",
+        "colorSelected": "#0163bcFF",
         "font": "System",
         "color": "#190017FF"
       },
-      "backgroundSelected": "#d101b7FF"
+      "backgroundSelected": "#a53493FF"
     },
     "window": {
       "color": "#e7ded5CC",
@@ -53,7 +53,7 @@
       "thickness": 0
     },
     "scrollbar": {
-      "color": "#c59413FF",
+      "color": "#7a6016FF",
       "thickness": 2
     },
     "name": "Themer Light"

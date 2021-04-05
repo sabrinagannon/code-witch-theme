@@ -14,7 +14,7 @@
         "font": "System",
         "color": "#cabebaFF"
       },
-      "backgroundSelected": "#0189a3FF",
+      "backgroundSelected": "#01b0d2FF",
       "text": {
         "size": 18,
         "colorSelected": "#190017FF",
@@ -31,11 +31,11 @@
       "spacing": 10,
       "text": {
         "size": 22,
-        "colorSelected": "#0168adFF",
+        "colorSelected": "#00a9fdFF",
         "font": "System",
         "color": "#e7ded5FF"
       },
-      "backgroundSelected": "#d101b7FF"
+      "backgroundSelected": "#da06bdFF"
     },
     "window": {
       "color": "#190017CC",

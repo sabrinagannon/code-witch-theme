@@ -22,26 +22,26 @@
           </defs>
           <g id="light">
             <rect fill="#e7ded5" x="0" y="0" width="400" height="200"></rect>
-            <rect fill="#cd4128" x="28" y="28" width="74" height="37"></rect>
-            <rect fill="#f58903" x="118" y="28" width="74" height="37"></rect>
-            <rect fill="#c59413" x="208" y="28" width="74" height="37"></rect>
-            <rect fill="#01845c" x="298" y="28" width="74" height="37"></rect>
-            <rect fill="#0189a3" x="28" y="81" width="74" height="37"></rect>
-            <rect fill="#0168ad" x="118" y="81" width="74" height="37"></rect>
-            <rect fill="#af7f95" x="208" y="81" width="74" height="37"></rect>
-            <rect fill="#d101b7" x="298" y="81" width="74" height="37"></rect>
+            <rect fill="#b93025" x="28" y="28" width="74" height="37"></rect>
+            <rect fill="#875a1f" x="118" y="28" width="74" height="37"></rect>
+            <rect fill="#7a6016" x="208" y="28" width="74" height="37"></rect>
+            <rect fill="#167150" x="298" y="28" width="74" height="37"></rect>
+            <rect fill="#2b6b7f" x="28" y="81" width="74" height="37"></rect>
+            <rect fill="#0163bc" x="118" y="81" width="74" height="37"></rect>
+            <rect fill="#904f6a" x="208" y="81" width="74" height="37"></rect>
+            <rect fill="#a53493" x="298" y="81" width="74" height="37"></rect>
             <rect fill="url(#shadeGradientLight)" x="28" y="134" width="344" height="37"></rect>
           </g>
           <g id="dark" transform="translate(0.000000, 200.000000)">
             <rect fill="#190017" x="0" y="0" width="400" height="200"></rect>
-            <rect fill="#cd4128" x="28" y="28" width="74" height="37"></rect>
+            <rect fill="#d3491f" x="28" y="28" width="74" height="37"></rect>
             <rect fill="#f58903" x="118" y="28" width="74" height="37"></rect>
             <rect fill="#c59413" x="208" y="28" width="74" height="37"></rect>
-            <rect fill="#01845c" x="298" y="28" width="74" height="37"></rect>
-            <rect fill="#0189a3" x="28" y="81" width="74" height="37"></rect>
-            <rect fill="#0168ad" x="118" y="81" width="74" height="37"></rect>
+            <rect fill="#02895e" x="298" y="28" width="74" height="37"></rect>
+            <rect fill="#01b0d2" x="28" y="81" width="74" height="37"></rect>
+            <rect fill="#00a9fd" x="118" y="81" width="74" height="37"></rect>
             <rect fill="#af7f95" x="208" y="81" width="74" height="37"></rect>
-            <rect fill="#d101b7" x="298" y="81" width="74" height="37"></rect>
+            <rect fill="#da06bd" x="298" y="81" width="74" height="37"></rect>
             <rect fill="url(#shadeGradientDark)" x="28" y="134" width="344" height="37"></rect>
           </g>
         </svg>

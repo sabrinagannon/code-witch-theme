@@ -30,85 +30,85 @@
               <Item
                 Name="Logpoint (Error)"
                 Foreground="0x00D5DEE7"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint (Warning)"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Mapped (Enabled)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Advanced (Enabled)"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Current Statement (historical mode)"
                 Foreground="0x00D5DEE7"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint (Disabled)"
                 Foreground="0x00BABECA"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
                 Name="Call Return (historical mode)"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Dashed)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Call Return (new context)"
                 Foreground="0x00D5DEE7"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
                 Name="Call Return"
                 Foreground="0x00D5DEE7"
-                Background="0x00A3891"
+                Background="0x007F6B2B"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint - Advanced (Disabled)"
                 Foreground="0x00322036"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Warning)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Checked)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint (Enabled)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
@@ -119,14 +119,14 @@
               />
               <Item
                 Name="SQL DML Marker"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x01000018"
                 BoldFont="No"
               />
               <Item
                 Name="Coverage Partially Touched Area"
                 Foreground="0x00D5DEE7"
-                Background="0x001394C5"
+                Background="0x0016607A"
                 BoldFont="No"
               />
               <Item
@@ -138,61 +138,61 @@
               <Item
                 Name="Snappoint - Advanced (Warning)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Coverage Not Touched Area"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Coverage Touched Area"
                 Foreground="0x00D5DEE7"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint - Advanced (Enabled)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint (Warning)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Advanced (Error)"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint (Error)"
-                Foreground="0x001394C5"
-                Background="0x007F90DA"
+                Foreground="0x0016607A"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint - Advanced (Error)"
-                Foreground="0x001394C5"
-                Background="0x00C5C6D9"
+                Foreground="0x0016607A"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint (Enabled)"
                 Foreground="0x00D5DEE7"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint (Alert)"
                 Foreground="0x00D5DEE7"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
@@ -204,193 +204,193 @@
               <Item
                 Name="Snappoint (Enabled)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Current Statement (new context)"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint (Warning)"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint - Advanced (Alert)"
                 Foreground="0x00D5DEE7"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
                 Name="Executing Thread IP"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Current Statement"
                 Foreground="0x00D5DEE7"
-                Background="0x001394C5"
+                Background="0x0016607A"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint (Dashed)"
                 Foreground="0x00D5DEE7"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Advanced (Error)"
-                Foreground="0x001394C5"
-                Background="0x007F90DA"
+                Foreground="0x0016607A"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Mapped (Error)"
-                Foreground="0x001394C5"
-                Background="0x007F90DA"
+                Foreground="0x0016607A"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Mapped (Disabled)"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x01000018"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint - Advanced (Warning)"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Mapped (Warning)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint - Advanced (Error)"
                 Foreground="0x00D5DEE7"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint - Advanced (Checked)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Error)"
-                Foreground="0x001394C5"
-                Background="0x00C5C6D9"
+                Foreground="0x0016607A"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Advanced (Warning)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint (Enabled)"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Mapped (Disabled)"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Advanced (Warning)"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Advanced (Disabled)"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Mapped (Warning)"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint (Error)"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Advanced (Enabled)"
                 Foreground="0x0017019"
-                Background="0x007F90DA"
+                Background="0x007D87D0"
                 BoldFont="No"
               />
               <Item
                 Name="Breakpoint - Advanced (Disabled)"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x01000018"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Mapped (Error)"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint - Advanced (Alert)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint - Advanced (Disabled)"
                 Foreground="0x00BABECA"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint (Disabled)"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Alert)"
                 Foreground="0x0017019"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Snappoint (Disabled)"
                 Foreground="0x00322036"
-                Background="0x00C5C6D9"
+                Background="0x00BABAD1"
                 BoldFont="No"
               />
               <Item
                 Name="Tracepoint - Mapped (Enabled)"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Logpoint - Advanced (Enabled)"
                 Foreground="0x00D5DEE7"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
@@ -408,12 +408,12 @@
               <Item
                 Name="Refactoring Current Field"
                 Foreground="0x01000000"
-                Background="0x00BCB474"
+                Background="0x00AAA589"
                 BoldFont="No"
               />
               <Item
                 Name="Code Snippet Dependent Field"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x02000000"
                 BoldFont="No"
               />
@@ -425,12 +425,12 @@
               <Item
                 Name="Warning Lines Path"
                 Foreground="0x00D5DEE7"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="Definition Window Current Match"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x02000000"
                 BoldFont="No"
               />
@@ -441,27 +441,27 @@
               />
               <Item
                 Name="Brace Matching (Rectangle)"
-                Background="0x00C1A374"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
                 Name="Bookmark (Disabled)"
-                Background="0x00C670DC"
+                Background="0x00B489C6"
                 BoldFont="No"
               />
               <Item
                 Name="Track Changes after save"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
                 Name="Track Changes before save"
-                Background="0x001394C5"
+                Background="0x0016607A"
                 BoldFont="No"
               />
               <Item
                 Name="Smart Tag"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x02000000"
                 BoldFont="No"
               />
@@ -478,14 +478,14 @@
               />
               <Item
                 Name="compiler warning"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Current List Location"
                 Foreground="0x0017019"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
@@ -502,31 +502,31 @@
               />
               <Item
                 Name="other error"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="syntax error"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="compiler error"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="Bookmark"
-                Background="0x00B71D1"
+                Background="0x009334A5"
                 BoldFont="No"
               />
               <Item
                 Name="Task List Shortcut"
                 Foreground="0x00D5DEE7"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
@@ -540,14 +540,14 @@
             <Items>
               <Item
                 Name="MarkerFormatDefinition/ScopeHighlight"
-                Foreground="0x006234D"
-                Background="0x00C1A374"
+                Foreground="0x006A32D"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/FindHighlight"
                 Foreground="0x00000000"
-                Background="0x0074B9D6"
+                Background="0x00769FB1"
                 BoldFont="No"
               />
               <Item
@@ -559,19 +559,19 @@
               <Item
                 Name="PeekFormatDefinition/PeekMark"
                 Foreground="0x01000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="PeekFormatDefinition/EOIMark"
                 Foreground="0x01000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/BreakpointInScrollBar"
                 Foreground="0x01000000"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
@@ -582,7 +582,7 @@
               />
               <Item
                 Name="XML Doc Tag"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -594,38 +594,38 @@
               />
               <Item
                 Name="MarkerFormatDefinition/HighlightedReference"
-                Foreground="0x006234D"
-                Background="0x00C1A374"
+                Foreground="0x006A32D"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
                 Name="deltadiff.overview.color"
                 Foreground="0x009F9FAC"
-                Background="0x00C9C9AE"
+                Background="0x00C0C1B8"
                 BoldFont="No"
               />
               <Item
                 Name="deltadiff.add.word"
-                Foreground="0x005C841"
-                Background="0x00ABBF97"
+                Foreground="0x00507116"
+                Background="0x00A6B89E"
                 BoldFont="No"
               />
               <Item
                 Name="deltadiff.remove.word"
-                Foreground="0x002841CD"
-                Background="0x0098A7DE"
+                Foreground="0x002530B9"
+                Background="0x0097A1D7"
                 BoldFont="No"
               />
               <Item
                 Name="deltadiff.add.line"
                 Foreground="0x01000000"
-                Background="0x00B7C8AE"
+                Background="0x00B4C3B3"
                 BoldFont="No"
               />
               <Item
                 Name="deltadiff.remove.line"
                 Foreground="0x01000000"
-                Background="0x00AAB7E1"
+                Background="0x00A9B3DC"
                 BoldFont="No"
               />
               <Item
@@ -637,30 +637,30 @@
               <Item
                 Name="Selected Text"
                 Foreground="0x02000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="Caret (Secondary)"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x01000001"
                 BoldFont="No"
               />
               <Item
                 Name="Caret (Primary)"
-                Foreground="0x00957FAF"
+                Foreground="0x006A4F90"
                 Background="0x01000001"
                 BoldFont="No"
               />
               <Item
                 Name="urlformat"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="NavigableSymbolFormat"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -703,19 +703,19 @@
               <Item
                 Name="Track reverted changes"
                 Foreground="0x02000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="Track Changes after save"
                 Foreground="0x02000000"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
                 Name="Track Changes before save"
                 Foreground="0x02000000"
-                Background="0x001394C5"
+                Background="0x0016607A"
                 BoldFont="No"
               />
               <Item
@@ -727,7 +727,7 @@
               <Item
                 Name="BraceCompletionClosingBrace"
                 Foreground="0x01000000"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
@@ -756,13 +756,13 @@
               />
               <Item
                 Name="OverviewMarginScrollButtonsMouseDown"
-                Foreground="0x00B7863B"
+                Foreground="0x00C2823B"
                 Background="0x00BABECA"
                 BoldFont="No"
               />
               <Item
                 Name="OverviewMarginScrollButtonsMouseOver"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00BABECA"
                 BoldFont="No"
               />
@@ -780,25 +780,25 @@
               />
               <Item
                 Name="compiler warning"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="other error"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="compiler error"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
               <Item
                 Name="syntax error"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x02000000"
                 BoldFont="No"
               />
@@ -810,37 +810,37 @@
               />
               <Item
                 Name="SymbolReferenceClassificationFormat"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="Yes"
               />
               <Item
                 Name="SymbolDefinitionClassificationFormat"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Number"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Type"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="String"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Markup Node"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -852,13 +852,13 @@
               />
               <Item
                 Name="Markup Attribute"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Literal"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -876,7 +876,7 @@
               />
               <Item
                 Name="Keyword"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -907,7 +907,7 @@
               <Item
                 Name="Peek Highlighted Text"
                 Foreground="0x01000000"
-                Background="0x00957FAF"
+                Background="0x006A4F90"
                 BoldFont="No"
               />
               <Item
@@ -918,20 +918,20 @@
               />
               <Item
                 Name="Peek Focused Border"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x01000001"
                 BoldFont="No"
               />
               <Item
                 Name="Peek History Hovered"
                 Foreground="0x01000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="Peek History Selected"
                 Foreground="0x01000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
@@ -943,13 +943,13 @@
               <Item
                 Name="Peek Background"
                 Foreground="0x01000000"
-                Background="0x00D1D2D0"
+                Background="0x00D3D2D0"
                 BoldFont="No"
               />
               <Item
                 Name="brace matching"
                 Foreground="0x0017019"
-                Background="0x00C1A374"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
@@ -966,25 +966,25 @@
               />
               <Item
                 Name="xml literal - name"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="xml literal - entity reference"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="xml literal - embedded expression"
                 Foreground="0x009F9FAC"
-                Background="0x001394C5"
+                Background="0x0016607A"
                 BoldFont="No"
               />
               <Item
                 Name="xml literal - delimiter"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -996,7 +996,7 @@
               />
               <Item
                 Name="xml literal - cdata section"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1008,7 +1008,7 @@
               />
               <Item
                 Name="xml literal - attribute quotes"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1020,49 +1020,49 @@
               />
               <Item
                 Name="regex - other escape"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - self escaped character"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="Yes"
               />
               <Item
                 Name="regex - text"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - alternation"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - grouping"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - quantifier"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - anchor"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="regex - character class"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1086,19 +1086,19 @@
               />
               <Item
                 Name="xml doc comment - name"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="xml doc comment - entity reference"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="xml doc comment - delimiter"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1110,7 +1110,7 @@
               />
               <Item
                 Name="xml doc comment - cdata section"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1140,7 +1140,7 @@
               />
               <Item
                 Name="namespace name"
-                Foreground="0x00957FAF"
+                Foreground="0x006A4F90"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1158,25 +1158,25 @@
               />
               <Item
                 Name="extension method name"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="method name"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="parameter name"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="local name"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1200,67 +1200,67 @@
               />
               <Item
                 Name="type parameter name"
-                Foreground="0x00389F5"
+                Foreground="0x001F5A87"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="struct name"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="module name"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="interface name"
-                Foreground="0x00B71D1"
+                Foreground="0x009334A5"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="enum name"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="delegate name"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="class name"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="operator - overloaded"
-                Foreground="0x00161E3B"
+                Foreground="0x0017132C"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="keyword - control"
-                Foreground="0x00957FAF"
+                Foreground="0x006A4F90"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="string - escape character"
-                Foreground="0x00A3891"
+                Foreground="0x007F6B2B"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="string - verbatim"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1278,13 +1278,13 @@
               />
               <Item
                 Name="Inline Rename Field Text"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Edit and Continue"
-                Foreground="0x00957FAF"
+                Foreground="0x006A4F90"
                 Background="0x02000000"
                 BoldFont="No"
               />
@@ -1296,19 +1296,19 @@
               />
               <Item
                 Name="RoslynRenameFixupTag"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="RoslynRenameFieldBackgroundAndBorderTag"
                 Foreground="0x00D5DEE7"
-                Background="0x00A3891"
+                Background="0x007F6B2B"
                 BoldFont="No"
               />
               <Item
                 Name="RoslynRenameConflictTag"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1320,7 +1320,7 @@
               />
               <Item
                 Name="RoslynPreviewWarningTag"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1332,19 +1332,19 @@
               />
               <Item
                 Name="MarkerFormatDefinition/HighlightedWrittenReference"
-                Foreground="0x006234D"
-                Background="0x00C1A374"
+                Foreground="0x006A32D"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/HighlightedDefinition"
-                Foreground="0x003A42D"
-                Background="0x0099B174"
+                Foreground="0x00343918"
+                Background="0x0093A87F"
                 BoldFont="No"
               />
               <Item
                 Name="CodeAnalysisCurrentStatementSelection"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00BABECA"
                 BoldFont="No"
               />
@@ -1356,14 +1356,14 @@
               />
               <Item
                 Name="CodeAnalysisKeyEventSelection"
-                Foreground="0x0074B9D6"
-                Background="0x0074B9D6"
+                Foreground="0x00769FB1"
+                Background="0x00769FB1"
                 BoldFont="No"
               />
               <Item
                 Name="CodeAnalysisWarningSelection"
-                Foreground="0x0074B9D6"
-                Background="0x0074B9D6"
+                Foreground="0x00769FB1"
+                Background="0x00769FB1"
                 BoldFont="No"
               />
               <Item
@@ -1381,13 +1381,13 @@
               <Item
                 Name="mergeEditor.SelectionBox"
                 Foreground="0x00FFFFFF"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
                 Name="mergeEditor.ConflictMarginIndicator"
                 Foreground="0x00FFFFFF"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
@@ -1405,13 +1405,13 @@
               <Item
                 Name="mergeEditor.ConflictNegativeSpace"
                 Foreground="0x00FFFFFF"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
                 Name="mergeEditor.DeletedNegativeSpace"
                 Foreground="0x00FFFFFF"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
@@ -1423,24 +1423,24 @@
               <Item
                 Name="mergeEditor.ConflictLine"
                 Foreground="0x00FFFFFF"
-                Background="0x00389F5"
+                Background="0x001F5A87"
                 BoldFont="No"
               />
               <Item
                 Name="mergeEditor.AcceptedSimilarLine"
                 Foreground="0x00FFFFFF"
-                Background="0x00BCB474"
+                Background="0x00AAA589"
                 BoldFont="No"
               />
               <Item
                 Name="mergeEditor.AcceptedLine"
                 Foreground="0x00FFFFFF"
-                Background="0x00BCB474"
+                Background="0x00AAA589"
                 BoldFont="No"
               />
               <Item
                 Name="SymbolLineClassificationFormat"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1458,7 +1458,7 @@
               />
               <Item
                 Name="FileLineClassificationFormat"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1470,44 +1470,44 @@
               />
               <Item
                 Name="Interactive Window Error Output"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="CodeReview.UnselectedComment.AnchorPoint"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00BABECA"
                 BoldFont="No"
               />
               <Item
                 Name="CodeReview.SelectedComment.AnchorPoint"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00BABECA"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/CommentHighlight"
                 Foreground="0x0017019"
-                Background="0x00C1A374"
+                Background="0x00C9A174"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/CommentMark"
                 Foreground="0x0017019"
-                Background="0x00BCB474"
+                Background="0x00AAA589"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/FilteredScrollBarComment"
                 Foreground="0x01000000"
-                Background="0x00A3891"
+                Background="0x007F6B2B"
                 BoldFont="No"
               />
               <Item
                 Name="MarkerFormatDefinition/ScrollBarComment"
                 Foreground="0x01000000"
-                Background="0x005C841"
+                Background="0x00507116"
                 BoldFont="No"
               />
               <Item
@@ -1518,7 +1518,7 @@
               />
               <Item
                 Name="Test Summary - Stack"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1543,7 +1543,7 @@
               <Item
                 Name="TextMate.Classifier"
                 Foreground="0x0017019"
-                Background="0x00B5AFCB"
+                Background="0x00A097BC"
                 BoldFont="No"
               />
             </Items>
@@ -1594,7 +1594,7 @@
               />
               <Item
                 Name="Different content"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00FFFFFF"
                 BoldFont="No"
               />
@@ -1623,7 +1623,7 @@
               <Item
                 Name="Selected Text"
                 Foreground="0x02000000"
-                Background="0x00AD681"
+                Background="0x00BC631"
                 BoldFont="No"
               />
               <Item
@@ -1638,7 +1638,7 @@
             <Items>
               <Item
                 Name="XSLT Keyword"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1662,19 +1662,19 @@
               />
               <Item
                 Name="XML CData Section"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="XML Attribute"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="XML Name"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1692,7 +1692,7 @@
               />
               <Item
                 Name="XML Keyword"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1710,13 +1710,13 @@
               />
               <Item
                 Name="XAML Markup Extension Parameter Name"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="XAML Markup Extension Class"
-                Foreground="0x001394C5"
+                Foreground="0x0016607A"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1728,7 +1728,7 @@
               />
               <Item
                 Name="XAML Attribute Value"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1740,13 +1740,13 @@
               />
               <Item
                 Name="XAML CData Section"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="XAML Attribute"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1770,7 +1770,7 @@
               />
               <Item
                 Name="XAML Keyword"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1788,14 +1788,14 @@
               />
               <Item
                 Name="Register Data Changed"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="Memory Unreadable"
                 Foreground="0x00D5DEE7"
-                Background="0x002841CD"
+                Background="0x002530B9"
                 BoldFont="No"
               />
               <Item
@@ -1806,7 +1806,7 @@
               />
               <Item
                 Name="Memory Changed"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1818,13 +1818,13 @@
               />
               <Item
                 Name="Number"
-                Foreground="0x002841CD"
+                Foreground="0x002530B9"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
               <Item
                 Name="String"
-                Foreground="0x005C841"
+                Foreground="0x00507116"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />
@@ -1842,7 +1842,7 @@
               />
               <Item
                 Name="Keyword"
-                Foreground="0x00AD681"
+                Foreground="0x00BC631"
                 Background="0x00D5DEE7"
                 BoldFont="No"
               />

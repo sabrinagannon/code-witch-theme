@@ -20,20 +20,20 @@ set -g status-bg "#362032"
 set -g status-left-bg "#362032"
 set -g status-left-fg "#ac9f9f"
 set -g status-left-length 40
-set -g status-left "#[fg=#190017,bg=#cd4128,bold] #S #[fg=#cd4128,bg=#8f7f84,nobold]#[fg=#362032,bg=#8f7f84] #(whoami) #[fg=#8f7f84,bg=#543f4d]#[fg=#8f7f84,bg=#543f4d] #I:#P #[fg=#543f4d,bg=#362032,nobold]"
+set -g status-left "#[fg=#190017,bg=#d3491f,bold] #S #[fg=#d3491f,bg=#8f7f84,nobold]#[fg=#362032,bg=#8f7f84] #(whoami) #[fg=#8f7f84,bg=#543f4d]#[fg=#8f7f84,bg=#543f4d] #I:#P #[fg=#543f4d,bg=#362032,nobold]"
 
 # Right side of status bar
 set -g status-right-bg "#362032"
 set -g status-right-fg "#ac9f9f"
 set -g status-right-length 150
-set -g status-right "#[fg=#543f4d,bg=#362032]#[fg=#8f7f84,bg=#543f4d] %H:%M:%S #[fg=#8f7f84,bg=#543f4d]#[fg=#362032,bg=#8f7f84] %d-%b-%y #[fg=#cd4128,bg=#8f7f84]#[fg=#190017,bg=#cd4128,bold] #H "
+set -g status-right "#[fg=#543f4d,bg=#362032]#[fg=#8f7f84,bg=#543f4d] %H:%M:%S #[fg=#8f7f84,bg=#543f4d]#[fg=#362032,bg=#8f7f84] %d-%b-%y #[fg=#d3491f,bg=#8f7f84]#[fg=#190017,bg=#d3491f,bold] #H "
 
 # Window status
 set -g window-status-format "#[fg=#e7ded5]#[bg=#362032]  #I:#W#F  "
 set -g window-status-current-format "#[fg=#362032,bg=black]#[fg=#f58903,nobold] #I:#W#F #[fg=#362032,bg=black,nobold]"
 
 # Current window status
-set -g window-status-current-bg "#cd4128"
+set -g window-status-current-bg "#d3491f"
 set -g window-status-current-fg "#362032"
 
 # Window with activity status
@@ -52,18 +52,18 @@ set -g pane-border-fg "#715f68"
 
 # Active pane border
 set -g pane-active-border-bg default
-set -g pane-active-border-fg "#cd4128"
+set -g pane-active-border-fg "#d3491f"
 
 # Pane number indicator
 set -g display-panes-colour "#362032"
 set -g display-panes-active-colour "#cabeba"
 
 # Clock mode
-set -g clock-mode-colour "#cd4128"
+set -g clock-mode-colour "#d3491f"
 set -g clock-mode-style 24
 
 # Message
-set -g message-bg "#cd4128"
+set -g message-bg "#d3491f"
 set -g message-fg black
 
 # Command message
@@ -71,5 +71,5 @@ set -g message-command-bg "#362032"
 set -g message-command-fg black
 
 # Mode
-set -g mode-bg "#cd4128"
+set -g mode-bg "#d3491f"
 set -g mode-fg "#e7ded5"

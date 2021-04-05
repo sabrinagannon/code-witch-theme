@@ -11,15 +11,15 @@
 
 Simply open the files to import them into Alfred. Either double-click them in Finder or use the terminal:
 
-    open 'Alfred/themer-alfred-dark.alfredappearance'
-    open 'Alfred/themer-alfred-light.alfredappearance'
+    open 'Alfred/code-witch-alfred-dark.alfredappearance'
+    open 'Alfred/code-witch-alfred-light.alfredappearance'
 
 ## Atom Syntax
 
 Use the `apm link` command to install the generated theme packages to Atom:
 
-    apm link 'Atom Syntax/themer-dark-syntax'
-    apm link 'Atom Syntax/themer-light-syntax'
+    apm link 'Atom Syntax/code-witch-dark-syntax'
+    apm link 'Atom Syntax/code-witch-light-syntax'
 
 Then open/reload Atom and select the desired theme in the list of available syntax themes.
 
@@ -27,8 +27,8 @@ Then open/reload Atom and select the desired theme in the list of available synt
 
 Use the `apm link` command to install the generated theme packages to Atom:
 
-    apm link 'Atom UI/themer-dark-ui'
-    apm link 'Atom UI/themer-light-ui'
+    apm link 'Atom UI/code-witch-dark-ui'
+    apm link 'Atom UI/code-witch-light-ui'
 
 Then open/reload Atom and select the desired theme in the list of available UI themes.
 
@@ -36,8 +36,8 @@ Then open/reload Atom and select the desired theme in the list of available UI t
 
 Files generated:
 
-* `Block Wave Wallpaper/themer-wallpaper-block-wave-dark-3584x2240.png`
-* `Block Wave Wallpaper/themer-wallpaper-block-wave-light-3584x2240.png`
+* `Block Wave Wallpaper/code-witch-wallpaper-block-wave-dark-3584x2240.png`
+* `Block Wave Wallpaper/code-witch-wallpaper-block-wave-light-3584x2240.png`
 
 ## Chrome
 
@@ -51,8 +51,8 @@ Files generated:
 
 Files generated:
 
-* `Circuits Wallpaper/themer-wallpaper-circuits-dark-3584x2240.png`
-* `Circuits Wallpaper/themer-wallpaper-circuits-light-3584x2240.png`
+* `Circuits Wallpaper/code-witch-wallpaper-circuits-dark-3584x2240.png`
+* `Circuits Wallpaper/code-witch-wallpaper-circuits-light-3584x2240.png`
 
 ## CSS
 
@@ -70,30 +70,30 @@ Generated files:
 
 Files generated:
 
-* `Diamonds Wallpaper/themer-wallpaper-diamonds-dark-3584x2240.png`
-* `Diamonds Wallpaper/themer-wallpaper-diamonds-light-3584x2240.png`
+* `Diamonds Wallpaper/code-witch-wallpaper-diamonds-dark-3584x2240.png`
+* `Diamonds Wallpaper/code-witch-wallpaper-diamonds-light-3584x2240.png`
 
 ## Dot Grid Wallpaper
 
 Files generated:
 
-* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-dark-3584x2240-1.png`
-* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-dark-3584x2240-2.png`
-* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-light-3584x2240-1.png`
-* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-light-3584x2240-2.png`
+* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-dark-3584x2240-1.png`
+* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-dark-3584x2240-2.png`
+* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-light-3584x2240-1.png`
+* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-light-3584x2240-2.png`
 
 ## Emacs
 
 Copy (or symlink) the generated theme files into `~/.emacs.d/`:
 
-    cp 'Emacs/themer-dark-theme.el' ~/.emacs.d/
-    cp 'Emacs/themer-light-theme.el' ~/.emacs.d/
+    cp 'Emacs/code-witch-dark-theme.el' ~/.emacs.d/
+    cp 'Emacs/code-witch-light-theme.el' ~/.emacs.d/
 
 Then load the desired theme in `init.el`:
 
-    (load-theme 'themer-dark t)
+    (load-theme 'code-witch-dark t)
     ;; or
-    (load-theme 'themer-light t)
+    (load-theme 'code-witch-light t)
 
 ## Firefox Add-on
 
@@ -107,30 +107,30 @@ Then the package can be submitted to Mozilla for review in the [Add-on Developer
 
 Learn more about Firefox themes from [extensionworkshop.com](https://extensionworkshop.com/documentation/themes/)
 
-To theme Firefox without the need to create a developer account and go through the extension review process, see themer's integration with [Firefox Color](https://color.firefox.com).
+To theme Firefox without the need to create a developer account and go through the extension review process, see code-witch's integration with [Firefox Color](https://color.firefox.com).
 
 ## Firefox Color
 
 The Firefox Color add-on allows for simple theming without the need for a developer account or package review process by Mozilla.
 
 1. Install the [Firefox Color add-on](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/).
-2. Open 'Firefox Color/themer-dark.url' or 'Firefox Color/themer-light.url' directly with Firefox.
+2. Open 'Firefox Color/code-witch-dark.url' or 'Firefox Color/code-witch-light.url' directly with Firefox.
 3. Click "Yep" when prompted to apply the custom theme.
 
-For a more fully featured Firefox theme, see themer's Firefox theme add-on generator.
+For a more fully featured Firefox theme, see code-witch's Firefox theme add-on generator.
 
 ## Hyper
 
 First, copy (or symlink) the outputted package directories to the Hyper local plugins directory:
 
-    cp -R 'Hyper/themer-hyper-dark' ~/.hyper_plugins/local/
-    cp -R 'Hyper/themer-hyper-light' ~/.hyper_plugins/local/
+    cp -R 'Hyper/code-witch-hyper-dark' ~/.hyper_plugins/local/
+    cp -R 'Hyper/code-witch-hyper-light' ~/.hyper_plugins/local/
 
 Then edit `~/.hyper.js` and add the package to the `localPlugins` array:
 
     ...
     localPlugins: [
-      'themer-hyper-dark' // or 'themer-hyper-light'
+      'code-witch-hyper-dark' // or 'code-witch-hyper-light'
     ],
     ...
 
@@ -138,46 +138,46 @@ Then edit `~/.hyper.js` and add the package to the `localPlugins` array:
 
 1. Launch iTerm
 2. Press `command`-`I` to open the iTerm preferences
-3. Choose Colors > Color Presets... > Import... and choose the generated theme file (`iTerm/themer-iterm-dark.itermcolors` or `iTerm/themer-iterm-light.itermcolors`)
+3. Choose Colors > Color Presets... > Import... and choose the generated theme file (`iTerm/code-witch-iterm-dark.itermcolors` or `iTerm/code-witch-iterm-light.itermcolors`)
 
 ## kitty
 
 In the kitty configuration file (usually `~/.config/kitty/kitty.conf`), `include` the generated theme file:
 
-    include kitty/themer-dark.conf
-    include kitty/themer-light.conf
+    include kitty/code-witch-dark.conf
+    include kitty/code-witch-light.conf
 
 ## Sketch
 
 Load the generated theme files into Sketch through the [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) plugin.
 
-* `Sketch/themer-sketch-palettes-dark.sketchpalette`
-* `Sketch/themer-sketch-palettes-light.sketchpalette`
+* `Sketch/code-witch-sketch-palettes-dark.sketchpalette`
+* `Sketch/code-witch-sketch-palettes-light.sketchpalette`
 
 ## Slack sidebar
 
-Copy the contents of `Slack sidebar/themer-slack-dark.txt` or `Slack sidebar/themer-slack-light.txt` and paste into the custom theme input in Slack's preferences.
+Copy the contents of `Slack sidebar/code-witch-slack-dark.txt` or `Slack sidebar/code-witch-slack-light.txt` and paste into the custom theme input in Slack's preferences.
 
 ## Sublime Text
 
-1. Copy (or symlink) the generated theme files (`Sublime Text/themer-sublime-text-dark.tmTheme` or `Sublime Text/themer-sublime-text-light.tmTheme`) to the `User/` packages folder (you can see where this folder is located by choosing the "Browse Packages..." menu option in Sublime Text).
+1. Copy (or symlink) the generated theme files (`Sublime Text/code-witch-sublime-text-dark.tmTheme` or `Sublime Text/code-witch-sublime-text-light.tmTheme`) to the `User/` packages folder (you can see where this folder is located by choosing the "Browse Packages..." menu option in Sublime Text).
 2. Choose the theme from the list of available color themes.
 
 ## Triangles Wallpaper
 
 Files generated:
 
-* `Triangles Wallpaper/themer-wallpaper-triangles-dark-3584x2240.png`
-* `Triangles Wallpaper/themer-wallpaper-triangles-light-3584x2240.png`
+* `Triangles Wallpaper/code-witch-wallpaper-triangles-dark-3584x2240.png`
+* `Triangles Wallpaper/code-witch-wallpaper-triangles-light-3584x2240.png`
 
 ## Trianglify Wallpaper
 
 Files generated:
 
-* `Trianglify Wallpaper/themer-wallpaper-trianglify-dark-3584x2240-0.75-1.png`
-* `Trianglify Wallpaper/themer-wallpaper-trianglify-dark-3584x2240-0.75-2.png`
-* `Trianglify Wallpaper/themer-wallpaper-trianglify-light-3584x2240-0.75-1.png`
-* `Trianglify Wallpaper/themer-wallpaper-trianglify-light-3584x2240-0.75-2.png`
+* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-dark-3584x2240-0.75-1.png`
+* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-dark-3584x2240-0.75-2.png`
+* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-1.png`
+* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-2.png`
 
 ## Vim
 
@@ -205,21 +205,21 @@ Then set the colorscheme in `.vimrc`:
 1. Select Tools > Import and Export Settings...
 2. Choose the "Import selected environment settings" option
 3. Choose whether or not to save a backup of current settings
-4. Click "Browse..." and choose the generated theme file ('Visual Studio/themer-dark.vssettings' or 'Visual Studio/themer-light.vssettings')
+4. Click "Browse..." and choose the generated theme file ('Visual Studio/code-witch-dark.vssettings' or 'Visual Studio/code-witch-light.vssettings')
 5. Click "Finish"
 
 ## VS Code
 
 Copy (or symlink) the generated package directory into the VS Code extensions directory:
 
-    cp -R 'VS Code/theme-themer-vscode' ~/.vscode/extensions/
+    cp -R 'VS Code/theme-code-witch-vscode' ~/.vscode/extensions/
 
 Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Code Witch Dark" / "Code Witch Light" will be available in the list of themes.
 
 ## Windows Terminal
 
 1. Open the Windows Terminal settings (`Ctrl`-`,`)
-2. Add the contents of 'Windows Terminal/themer-dark.json' and 'Windows Terminal/themer-light.json' to the `schemes` array in `profile.json`
+2. Add the contents of 'Windows Terminal/code-witch-dark.json' and 'Windows Terminal/code-witch-light.json' to the `schemes` array in `profile.json`
 3. Set the `colorScheme` property to the desired scheme name ("Code Witch Dark" or "Code Witch Light") in the profiles section of `profile.json`, e.g.:
 
     "profiles": {

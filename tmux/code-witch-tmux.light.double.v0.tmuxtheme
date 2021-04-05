@@ -20,20 +20,20 @@ set -g status-bg "#cabeba"
 set -g status-left-bg "#cabeba"
 set -g status-left-fg "#543f4d"
 set -g status-left-length 40
-set -g status-left "#[fg=#e7ded5,bg=#cd4128,bold] #S #[fg=#cd4128,bg=#715f68,nobold]#[fg=#cabeba,bg=#715f68] #(whoami) #[fg=#715f68,bg=#ac9f9f]#[fg=#715f68,bg=#ac9f9f] #I:#P #[fg=#ac9f9f,bg=#cabeba,nobold]"
+set -g status-left "#[fg=#e7ded5,bg=#b93025,bold] #S #[fg=#b93025,bg=#715f68,nobold]#[fg=#cabeba,bg=#715f68] #(whoami) #[fg=#715f68,bg=#ac9f9f]#[fg=#715f68,bg=#ac9f9f] #I:#P #[fg=#ac9f9f,bg=#cabeba,nobold]"
 
 # Right side of status bar
 set -g status-right-bg "#cabeba"
 set -g status-right-fg "#543f4d"
 set -g status-right-length 150
-set -g status-right "#[fg=#ac9f9f,bg=#cabeba]#[fg=#715f68,bg=#ac9f9f] %H:%M:%S #[fg=#715f68,bg=#ac9f9f]#[fg=#cabeba,bg=#715f68] %d-%b-%y #[fg=#cd4128,bg=#715f68]#[fg=#e7ded5,bg=#cd4128,bold] #H "
+set -g status-right "#[fg=#ac9f9f,bg=#cabeba]#[fg=#715f68,bg=#ac9f9f] %H:%M:%S #[fg=#715f68,bg=#ac9f9f]#[fg=#cabeba,bg=#715f68] %d-%b-%y #[fg=#b93025,bg=#715f68]#[fg=#e7ded5,bg=#b93025,bold] #H "
 
 # Window status
 set -g window-status-format "#[fg=#190017]#[bg=#cabeba]  #I:#W#F  "
-set -g window-status-current-format "#[fg=#cabeba,bg=black]#[fg=#f58903,nobold] #I:#W#F #[fg=#cabeba,bg=black,nobold]"
+set -g window-status-current-format "#[fg=#cabeba,bg=black]#[fg=#875a1f,nobold] #I:#W#F #[fg=#cabeba,bg=black,nobold]"
 
 # Current window status
-set -g window-status-current-bg "#cd4128"
+set -g window-status-current-bg "#b93025"
 set -g window-status-current-fg "#cabeba"
 
 # Window with activity status
@@ -52,18 +52,18 @@ set -g pane-border-fg "#8f7f84"
 
 # Active pane border
 set -g pane-active-border-bg default
-set -g pane-active-border-fg "#cd4128"
+set -g pane-active-border-fg "#b93025"
 
 # Pane number indicator
 set -g display-panes-colour "#cabeba"
 set -g display-panes-active-colour "#362032"
 
 # Clock mode
-set -g clock-mode-colour "#cd4128"
+set -g clock-mode-colour "#b93025"
 set -g clock-mode-style 24
 
 # Message
-set -g message-bg "#cd4128"
+set -g message-bg "#b93025"
 set -g message-fg black
 
 # Command message
@@ -71,5 +71,5 @@ set -g message-command-bg "#cabeba"
 set -g message-command-fg black
 
 # Mode
-set -g mode-bg "#cd4128"
+set -g mode-bg "#b93025"
 set -g mode-fg "#190017"

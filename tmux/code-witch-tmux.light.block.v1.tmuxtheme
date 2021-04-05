@@ -20,7 +20,7 @@ set -g status-bg "#cabeba"
 set -g status-left-bg "#cabeba"
 set -g status-left-fg "#543f4d"
 set -g status-left-length 40
-set -g status-left "#[fg=#e7ded5,bg=#c59413,bold] #S #[fg=#c59413,bg=#715f68,nobold]#[fg=#cabeba,bg=#715f68] #(whoami) #[fg=#715f68,bg=#ac9f9f]#[fg=#715f68,bg=#ac9f9f] #I:#P #[fg=#ac9f9f,bg=#cabeba,nobold]"
+set -g status-left "#[fg=#e7ded5,bg=#7a6016,bold] #S #[fg=#7a6016,bg=#715f68,nobold]#[fg=#cabeba,bg=#715f68] #(whoami) #[fg=#715f68,bg=#ac9f9f]#[fg=#715f68,bg=#ac9f9f] #I:#P #[fg=#ac9f9f,bg=#cabeba,nobold]"
 
 # Right side of status bar
 set -g status-right-bg "#cabeba"
@@ -30,14 +30,14 @@ set -g status-right "#[fg=#ac9f9f,bg=#cabeba]#[fg=#715f68,bg=#ac9f9f] %H:%M:%
 
 # Window status
 set -g window-status-format "#[fg=#190017]#[bg=#cabeba] #I:#W#F "
-set -g window-status-current-format "#[fg=#01845c,bg=black] #I:#W#F "
+set -g window-status-current-format "#[fg=#167150,bg=black] #I:#W#F "
 
 # Current window status
-set -g window-status-current-bg "#c59413"
+set -g window-status-current-bg "#7a6016"
 set -g window-status-current-fg "#e7ded5"
 
 # Window with activity status
-set -g window-status-activity-bg "#01845c"  # fg and bg are flipped here due to
+set -g window-status-activity-bg "#167150"  # fg and bg are flipped here due to
 set -g window-status-activity-fg "#cabeba" # a bug in tmux
 
 # Window separator
@@ -52,18 +52,18 @@ set -g pane-border-fg "#8f7f84"
 
 # Active pane border
 set -g pane-active-border-bg default
-set -g pane-active-border-fg "#c59413"
+set -g pane-active-border-fg "#7a6016"
 
 # Pane number indicator
 set -g display-panes-colour "#cabeba"
 set -g display-panes-active-colour "#362032"
 
 # Clock mode
-set -g clock-mode-colour "#c59413"
+set -g clock-mode-colour "#7a6016"
 set -g clock-mode-style 24
 
 # Message
-set -g message-bg "#c59413"
+set -g message-bg "#7a6016"
 set -g message-fg black
 
 # Command message
@@ -71,5 +71,5 @@ set -g message-command-bg "#cabeba"
 set -g message-command-fg black
 
 # Mode
-set -g mode-bg "#c59413"
+set -g mode-bg "#7a6016"
 set -g mode-fg "#190017"
