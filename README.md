@@ -1,20 +1,35 @@
 # Code Witch Theme
 
-# Installation instructions
+A code theme for your witchy self, read about the inspiration [here](https://thecodewitch.codes/code-witch-theme/).  
+Has both a dark and light versions.
 
-## Alacritty
+## Previews
+
+### Dark Mode
+<img width="769" alt="Screen Shot 2021-04-07 at 5 56 57 PM" src="https://user-images.githubusercontent.com/5974006/113940133-f97f7580-97ca-11eb-840d-70499d6ce81e.png">
+<img width="759" alt="Screen Shot 2021-04-07 at 5 57 12 PM" src="https://user-images.githubusercontent.com/5974006/113940185-0dc37280-97cb-11eb-91b8-eead5d590b44.png">
+
+### Light Mode
+<img width="655" alt="Screen Shot 2021-04-07 at 6 01 56 PM" src="https://user-images.githubusercontent.com/5974006/113940415-698dfb80-97cb-11eb-9be1-059a2da7483f.png">
+<img width="771" alt="Screen Shot 2021-04-07 at 6 02 09 PM" src="https://user-images.githubusercontent.com/5974006/113940425-6bf05580-97cb-11eb-9608-1a27429c79d0.png">
+
+
+
+## Installation instructions
+
+### Alacritty
 
 1. Paste the contents of `Alacritty/CodeWitch.yml` into your Alacritty config file.
 2. Select the desired theme by setting the `colors` config key to reference the scheme's anchor (i.e., `colors: *light` or `colors: *dark`).
 
-## Alfred
+### Alfred
 
 Simply open the files to import them into Alfred. Either double-click them in Finder or use the terminal:
 
     open 'Alfred/code-witch-alfred-dark.alfredappearance'
     open 'Alfred/code-witch-alfred-light.alfredappearance'
 
-## Atom Syntax
+### Atom Syntax
 
 Use the `apm link` command to install the generated theme packages to Atom:
 
@@ -23,7 +38,7 @@ Use the `apm link` command to install the generated theme packages to Atom:
 
 Then open/reload Atom and select the desired theme in the list of available syntax themes.
 
-## Atom UI
+### Atom UI
 
 Use the `apm link` command to install the generated theme packages to Atom:
 
@@ -32,14 +47,7 @@ Use the `apm link` command to install the generated theme packages to Atom:
 
 Then open/reload Atom and select the desired theme in the list of available UI themes.
 
-## Block Wave Wallpaper
-
-Files generated:
-
-* `Block Wave Wallpaper/code-witch-wallpaper-block-wave-dark-3584x2240.png`
-* `Block Wave Wallpaper/code-witch-wallpaper-block-wave-light-3584x2240.png`
-
-## Chrome
+### Chrome
 
 1. Launch Chrome and go to `chrome://extensions`.
 2. Check the "Developer mode" checkbox at the top.
@@ -47,14 +55,7 @@ Files generated:
 
 (To reset or remove the theme, visit `chrome://settings` and click "Reset to Default" in the "Appearance" section.)
 
-## Circuits Wallpaper
-
-Files generated:
-
-* `Circuits Wallpaper/code-witch-wallpaper-circuits-dark-3584x2240.png`
-* `Circuits Wallpaper/code-witch-wallpaper-circuits-light-3584x2240.png`
-
-## CSS
+### CSS
 
 Import the generated theme file into your stylesheet via `@import()`, or into your HTML markup via `<link>`.
 
@@ -66,23 +67,7 @@ Generated files:
 * `CSS/rgb.css`
 * `CSS/hsl.css`
 
-## Diamonds Wallpaper
-
-Files generated:
-
-* `Diamonds Wallpaper/code-witch-wallpaper-diamonds-dark-3584x2240.png`
-* `Diamonds Wallpaper/code-witch-wallpaper-diamonds-light-3584x2240.png`
-
-## Dot Grid Wallpaper
-
-Files generated:
-
-* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-dark-3584x2240-1.png`
-* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-dark-3584x2240-2.png`
-* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-light-3584x2240-1.png`
-* `Dot Grid Wallpaper/code-witch-wallpaper-dot-grid-light-3584x2240-2.png`
-
-## Emacs
+### Emacs
 
 Copy (or symlink) the generated theme files into `~/.emacs.d/`:
 
@@ -95,7 +80,7 @@ Then load the desired theme in `init.el`:
     ;; or
     (load-theme 'code-witch-light t)
 
-## Firefox Add-on
+### Firefox Add-on
 
 To use the generated extension package, the code will need to be packaged up and signed by Mozilla.
 
@@ -109,7 +94,7 @@ Learn more about Firefox themes from [extensionworkshop.com](https://extensionwo
 
 To theme Firefox without the need to create a developer account and go through the extension review process, see code-witch's integration with [Firefox Color](https://color.firefox.com).
 
-## Firefox Color
+### Firefox Color
 
 The Firefox Color add-on allows for simple theming without the need for a developer account or package review process by Mozilla.
 
@@ -119,7 +104,7 @@ The Firefox Color add-on allows for simple theming without the need for a develo
 
 For a more fully featured Firefox theme, see code-witch's Firefox theme add-on generator.
 
-## Hyper
+### Hyper
 
 First, copy (or symlink) the outputted package directories to the Hyper local plugins directory:
 
@@ -134,27 +119,27 @@ Then edit `~/.hyper.js` and add the package to the `localPlugins` array:
     ],
     ...
 
-## iTerm
+### iTerm
 
 1. Launch iTerm
 2. Press `command`-`I` to open the iTerm preferences
 3. Choose Colors > Color Presets... > Import... and choose the generated theme file (`iTerm/code-witch-iterm-dark.itermcolors` or `iTerm/code-witch-iterm-light.itermcolors`)
 
-## kitty
+### kitty
 
 In the kitty configuration file (usually `~/.config/kitty/kitty.conf`), `include` the generated theme file:
 
     include kitty/code-witch-dark.conf
     include kitty/code-witch-light.conf
 
-## Sketch
+### Sketch
 
 Load the generated theme files into Sketch through the [sketch-palettes](https://github.com/andrewfiorillo/sketch-palettes) plugin.
 
 * `Sketch/code-witch-sketch-palettes-dark.sketchpalette`
 * `Sketch/code-witch-sketch-palettes-light.sketchpalette`
 
-## Slack sidebar
+### Slack sidebar
 
 Copy the contents of `Slack sidebar/code-witch-slack-dark.txt` or `Slack sidebar/code-witch-slack-light.txt` and paste into the custom theme input in Slack's preferences.
 
@@ -163,14 +148,14 @@ Copy the contents of `Slack sidebar/code-witch-slack-dark.txt` or `Slack sidebar
 1. Copy (or symlink) the generated theme files (`Sublime Text/code-witch-sublime-text-dark.tmTheme` or `Sublime Text/code-witch-sublime-text-light.tmTheme`) to the `User/` packages folder (you can see where this folder is located by choosing the "Browse Packages..." menu option in Sublime Text).
 2. Choose the theme from the list of available color themes.
 
-## Triangles Wallpaper
+### Triangles Wallpaper
 
 Files generated:
 
 * `Triangles Wallpaper/code-witch-wallpaper-triangles-dark-3584x2240.png`
 * `Triangles Wallpaper/code-witch-wallpaper-triangles-light-3584x2240.png`
 
-## Trianglify Wallpaper
+### Trianglify Wallpaper
 
 Files generated:
 
@@ -179,7 +164,7 @@ Files generated:
 * `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-1.png`
 * `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-2.png`
 
-## Vim
+### Vim
 
 (Note vim themes are in a [separate repo](https://github.com/sabrinathecodewitch/code-witch-vim))
 
@@ -190,7 +175,7 @@ Then set the colorscheme in `.vimrc`:
     " The background option must be set before running this command.
     colorscheme code-witch
 
-### Vim lightline support
+#### Vim lightline support
 
 Install the vim theme using your plugin manager or usual for setup.
 
@@ -200,7 +185,7 @@ Then set the colorscheme in `.vimrc`:
 
     let g:lightline = { 'colorscheme': 'CodeWitchVimLightline' }
 
-## Visual Studio
+### Visual Studio
 
 1. Select Tools > Import and Export Settings...
 2. Choose the "Import selected environment settings" option
@@ -208,7 +193,7 @@ Then set the colorscheme in `.vimrc`:
 4. Click "Browse..." and choose the generated theme file ('Visual Studio/code-witch-dark.vssettings' or 'Visual Studio/code-witch-light.vssettings')
 5. Click "Finish"
 
-## VS Code
+### VS Code
 
 Copy (or symlink) the generated package directory into the VS Code extensions directory:
 
@@ -216,7 +201,7 @@ Copy (or symlink) the generated package directory into the VS Code extensions di
 
 Then reload or restart VS Code. The generated theme package should be in the list of installed extensions, and "Code Witch Dark" / "Code Witch Light" will be available in the list of themes.
 
-## Windows Terminal
+### Windows Terminal
 
 1. Open the Windows Terminal settings (`Ctrl`-`,`)
 2. Add the contents of 'Windows Terminal/code-witch-dark.json' and 'Windows Terminal/code-witch-light.json' to the `schemes` array in `profile.json`
@@ -228,7 +213,7 @@ Then reload or restart VS Code. The generated theme package should be in the lis
       }
     }
 
-## Xcode
+### Xcode
 
 Copy (or symlink) the generated theme files to Xcode's themes directory:
 
