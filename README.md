@@ -148,22 +148,6 @@ Copy the contents of `Slack sidebar/code-witch-slack-dark.txt` or `Slack sidebar
 1. Copy (or symlink) the generated theme files (`Sublime Text/code-witch-sublime-text-dark.tmTheme` or `Sublime Text/code-witch-sublime-text-light.tmTheme`) to the `User/` packages folder (you can see where this folder is located by choosing the "Browse Packages..." menu option in Sublime Text).
 2. Choose the theme from the list of available color themes.
 
-### Triangles Wallpaper
-
-Files generated:
-
-* `Triangles Wallpaper/code-witch-wallpaper-triangles-dark-3584x2240.png`
-* `Triangles Wallpaper/code-witch-wallpaper-triangles-light-3584x2240.png`
-
-### Trianglify Wallpaper
-
-Files generated:
-
-* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-dark-3584x2240-0.75-1.png`
-* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-dark-3584x2240-0.75-2.png`
-* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-1.png`
-* `Trianglify Wallpaper/code-witch-wallpaper-trianglify-light-3584x2240-0.75-2.png`
-
 ### Vim
 
 (Note vim themes are in a [separate repo](https://github.com/sabrinathecodewitch/code-witch-vim))
