@@ -1,7 +1,7 @@
 # Code Witch Theme
 
-A code theme for your witchy self, read about the inspiration [here](https://thecodewitch.codes/code-witch-theme/).  
-Has both a dark and light versions.
+A code theme for your witchy self, inspired by [this illustration](https://twitter.com/thecodewitch/status/1378053057443926026?s=20).  
+Has both dark and light modes.
 
 ## Previews
 
